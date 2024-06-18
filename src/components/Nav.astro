@@ -5,21 +5,21 @@ import type { iconPaths } from './IconPaths';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Home', href: '/' },
-	{ label: 'Projets', href: '/work/' },
-	{ label: 'À propos', href: '/about/' },
+	{ label: 'Home', href: '/portfolio/' },
+	{ label: 'Projets', href: '/portfolio/work/' },
+	{ label: 'À propos', href: '/portfolio/about/' },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
 const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[] = [
-	{ label: 'GitHub', href: 'https://github.com/me', icon: 'github-logo' },
-	{ label: 'LinkedIn', href: 'https://linkedin.com/mateo-galopin', icon: 'linkedin-logo' },
+	{ label: 'GitHub', href: 'https://github.com/MateoGalopin', icon: 'github-logo' },
+	{ label: 'LinkedIn', href: 'https://linkedin.com/in/mateo-galopin', icon: 'linkedin-logo' },
 ];
 ---
 
 <nav>
 	<div class="menu-header">
-		<a href="/" class="site-title">
+		<a href="/portfolio" class="site-title">
 			<Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient />
 			Matéo Galopin
 		</a>
