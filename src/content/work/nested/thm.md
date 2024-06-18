@@ -1,7 +1,7 @@
 ---
 title: CTF TryHackMe
 publishDate: 2024-06-18 00:00:00
-img: /assets/thm.png
+img: /portfolio/assets/thm.png
 img_alt: THM
 description: |
   Apprendre le piratage étique
