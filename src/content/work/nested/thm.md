@@ -12,6 +12,6 @@ tags:
 
 Depuis plusieurs mois, je passe beaucoup de temps à développer mes compétences sur TryHackMe.
 Entre les chemins d'apprentissage et Capture The Flag, j'acquiers des compétences et les développe
-dans le but de faire du bug bounty et peut être de devenir pentester.
+dans le but de faire du bug bounty et peut-être devenir pentester.
 
  <script src="https://tryhackme.com/badge/2813371"></script>
