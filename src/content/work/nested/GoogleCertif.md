@@ -1,7 +1,7 @@
 ---
 title: Cybersécurité Google Certificat
 publishDate: 2024-08-28 00:00:00
-img: 
+img: /portfolio/assets/Google__G__logo.svg.png
 img_alt: Certificat Google
 description: |
   Cybersécurité Google Certificat Professionnel
