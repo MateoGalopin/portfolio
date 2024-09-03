@@ -1,6 +1,6 @@
 ---
 title: Réseaux et sécurité des réseaux
-publishDate: 2024-09-03 00:00:00
+publishDate: 2024-08-03 00:00:00
 img: /portfolio/assets/certifNetwork.jpg
 img_alt: Certificat Google
 description: |
