@@ -12,7 +12,7 @@ tags:
 
 Certification Cybersécurité de Google, suivi des cours sur Coursera
 
-Cours 1: Fondements de la cybersécurité
+Cours 1 : Fondements de la cybersécurité
 
 Module 1 :
 
