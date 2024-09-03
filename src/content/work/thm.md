@@ -1,6 +1,6 @@
 ---
 title: CTF TryHackMe
-publishDate: 2024-06-18 00:00:00
+publishDate: 2024-10-18 00:00:00
 img: /portfolio/assets/thm.png
 img_alt: THM
 description: |
