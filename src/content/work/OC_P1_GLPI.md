@@ -31,20 +31,20 @@ Gérez le support utilisateurs et améliorez votre niveau de service
 
 Étape 5 : Rédaction de documentation
 
-    Une documentation technique claire et pédagogique au format PDF sur le phishing, comprenant :
+  Une documentation technique claire et pédagogique au format PDF sur le phishing, comprenant :
 
-        Une définition du phishing et de ses risques.
+  - Une définition du phishing et de ses risques.
 
-        Des exemples visuels de mails suspects (captures d’écran).
+  - Des exemples visuels de mails suspects (captures d’écran).
 
-        Des étapes à suivre en cas de réception d’un mail suspect.
+  - Des étapes à suivre en cas de réception d’un mail suspect.
 
-        Des bonnes pratiques pour se protéger contre le phishing.
+  - Des bonnes pratiques pour se protéger contre le phishing.
 
-        Un ton accessible et adapté à tous les utilisateurs.
+  - Un ton accessible et adapté à tous les utilisateurs.
 
 
 
-    Un guide PDF clair et concis sur l’utilisation de l’IA pour les développeurs, avec des exemples de scripts et des conseils techniques. 
+  Un guide PDF clair et concis sur l’utilisation de l’IA pour les développeurs, avec des exemples de scripts et des conseils techniques. 
 
 
